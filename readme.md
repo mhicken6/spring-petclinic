@@ -101,7 +101,7 @@ Visit [http://localhost:8080](http://localhost:8080) in your browser.
 |Properties Files | [application.properties](https://github.com/spring-projects/spring-petclinic/blob/master/src/main/resources) |
 |Caching | [CacheConfiguration](https://github.com/spring-projects/spring-petclinic/blob/master/src/main/java/org/springframework/samples/petclinic/system/CacheConfiguration.java) |
 
-## Interesting Spring Petclinic branches and forks
+## Intresting Spring Petclinic branches and forks
 
 The Spring Petclinic master branch in the main [spring-projects](https://github.com/spring-projects/spring-petclinic)
 GitHub org is the "canonical" implementation, currently based on Spring Boot and Thymeleaf. There are
